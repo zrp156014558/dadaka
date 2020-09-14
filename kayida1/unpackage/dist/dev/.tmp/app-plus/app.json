@@ -1,0 +1,107 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/user/user",
+    "pages/genra/genra",
+    "pages/order/order",
+    "pages/credit/credit",
+    "pages/sysmess/sysmess",
+    "pages/loan/loan",
+    "pages/card/card",
+    "pages/withdrawal/withdrawal",
+    "pages/affirmrecord/affirmrecord",
+    "pages/forgetpwd/forgetpwd",
+    "pages/userareement/userareement",
+    "pages/systemnotice/systemnotice",
+    "pages/taskcenter/taskcenter",
+    "pages/promotioncenter/promotioncenter",
+    "pages/myteam/myteam",
+    "pages/toaudit/toaudit",
+    "pages/service/service",
+    "pages/advice/advice",
+    "pages/bind/bind",
+    "pages/sencondloans/sencondloans",
+    "pages/guide/guide",
+    "pages/course/course",
+    "pages/loan6/loan6",
+    "pages/realname/realname",
+    "pages/onapplication/onapplication",
+    "pages/applycard/applycard",
+    "pages/mynews/mynews",
+    "pages/accountdetails/accountdetails",
+    "pages/problem/problem",
+    "pages/coursecenter/coursecenter",
+    "pages/handbook/handbook",
+    "pages/promotelinks/promotelinks",
+    "pages/statistics/statistics",
+    "pages/team/team",
+    "pages/materials/materials",
+    "pages/commission/commission",
+    "pages/problemdetail/problemdetail",
+    "pages/platformhandbook/platformhandbook",
+    "pages/newsdetail/newsdetail",
+    "pages/materguide/materguide",
+    "pages/checkprogress/checkprogress",
+    "pages/carousellinks/carousellinks",
+    "pages/topromote/topromote",
+    "pages/teamaward/teamaward",
+    "pages/gettask/gettask",
+    "pages/uploading/uploading",
+    "pages/frontal/frontal",
+    "pages/loansdetail/loansdetail",
+    "pages/loan2/loan2",
+    "pages/invite/invite",
+    "pages/become/become",
+    "pages/userinformation/userinformation",
+    "pages/teamorder/teamorder"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#00ABFA",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#04ACFA",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/homeHL.png"
+      },
+      {
+        "pagePath": "pages/genra/genra",
+        "text": "推广",
+        "iconPath": "static/img/generalize.png",
+        "selectedIconPath": "static/img/generalizeHL.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "static/img/order.png",
+        "selectedIconPath": "static/img/orderHL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/userHL.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "卡易达",
+  "compilerVersion": "2.6.11",
+  "usingComponents": {
+    "request-loading": "/components/compt_requestLoading"
+  }
+}

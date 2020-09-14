@@ -1,0 +1,18 @@
+.con .promote.data-v-f8a97776 {
+  margin-bottom: 90rpx;
+}
+.con .promote .promote-banner.data-v-f8a97776 {
+  width: 750rpx;
+}
+.con .become.data-v-f8a97776 {
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #00ABFA;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  font-size: 30rpx;
+}
+

@@ -1,0 +1,36 @@
+.con.data-v-1ac59a25 {
+  background: #F7F7F7;
+}
+.con .problem-main.data-v-1ac59a25 {
+  padding: 10rpx 40rpx;
+}
+.con .problem-main .problem-card.data-v-1ac59a25 {
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 26rpx;
+  color: #333;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+.con .problem-main .problem-card .problem-card-text.data-v-1ac59a25 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.con .problem-main .problem-card .ask.data-v-1ac59a25 {
+  width: 36rpx;
+  height: 40rpx;
+  margin-top: 20rpx;
+}
+.con .problem-main .problem-card view.data-v-1ac59a25 {
+  margin-left: 20rpx;
+}
+.con .problem-main .problem-card .question.data-v-1ac59a25 {
+  width: 10rpx;
+  height: 16rpx;
+  margin-right: 15rpx;
+  margin-top: 30rpx;
+}
+

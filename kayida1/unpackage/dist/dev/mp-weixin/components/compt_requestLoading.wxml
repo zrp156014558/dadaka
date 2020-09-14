@@ -1,0 +1,1 @@
+<view hidden="{{!(loadingShow)}}" class="request-loading-view data-v-1ee3af41"><view class="loading-view data-v-1ee3af41"><view class="loading data-v-1ee3af41"></view></view></view>

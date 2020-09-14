@@ -1,0 +1,115 @@
+.con.data-v-87719976 {
+  background: #F7F7F7;
+}
+.con .credit-title.data-v-87719976 {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  background: #fff;
+  position: fixed;
+  width: 100%;
+  height: 80rpx;
+  line-height: 50rpx;
+  z-index: 999;
+}
+.con .credit-title .credit.data-v-87719976 {
+  margin-top: 10rpx;
+  font-size: 30rpx;
+}
+.con .credit-title .credit-c.data-v-87719976 {
+  color: #00ABFA;
+  font-size: 34rpx;
+}
+.con .subtitle-bg.data-v-87719976 {
+  width: 100%;
+  background: #fff;
+  height: 80rpx;
+  position: fixed;
+  z-index: 999;
+  margin-top: 80rpx;
+}
+.con .subtitle.data-v-87719976 {
+  padding: 20rpx 40rpx;
+  font-size: 24rpx;
+  color: #EBEBEB;
+}
+.con .subtitle .order-subtitle.data-v-87719976 {
+  background: #808080;
+  height: 60rpx;
+  line-height: 60rpx;
+  padding: 0 10rpx;
+}
+.con .subtitle .order-bg.data-v-87719976 {
+  background: #00ABFA;
+}
+.con .main.data-v-87719976 {
+  padding: 0 40rpx;
+  margin-top: 180rpx;
+}
+.con .main .hint.data-v-87719976 {
+  font-size: 26rpx;
+  color: #808080;
+}
+.con .main .no-data.data-v-87719976 {
+  font-size: 40rpx;
+  color: #999999;
+  text-align: center;
+  font-weight: bold;
+}
+.con .main .order-card.data-v-87719976 {
+  width: 670rpx;
+  height: 350rpx;
+  font-size: 24rpx;
+  margin-bottom: 40rpx;
+}
+.con .main .order-card .type.data-v-87719976 {
+  width: 40rpx;
+  background: #00ABFA;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-writing-mode: vertical-lr;
+          writing-mode: vertical-lr;
+  padding-left: 6rpx;
+  letter-spacing: 16rpx;
+  border-bottom-left-radius: 10rpx;
+  border-top-left-radius: 10rpx;
+}
+.con .main .order-card .card-right.data-v-87719976 {
+  background: #fff;
+  width: 602rpx;
+  padding-left: 20rpx;
+  padding-top: 20rpx;
+  font-size: 24rpx;
+  color: #A1A1A1;
+}
+.con .main .order-card .card-right .applyfor.data-v-87719976 {
+  margin-top: 10rpx;
+}
+.con .main .order-card .card-right .details.data-v-87719976 {
+  color: #3D3D3D;
+}
+.con .main .order-card .card-right .state.data-v-87719976 {
+  color: #0DAFFA;
+}
+.con .main .order-card .card-right .plan.data-v-87719976,
+.con .main .order-card .card-right .del.data-v-87719976 {
+  border-radius: 10rpx;
+  text-align: center;
+  line-height: 43rpx;
+  color: #fff;
+  margin-top: 20rpx;
+  font-size: 24rpx;
+}
+.con .main .order-card .card-right .plan.data-v-87719976 {
+  width: 125rpx;
+  height: 43rpx;
+  background: #FEAB31;
+  margin-left: 10rpx;
+}
+.con .main .order-card .card-right .del.data-v-87719976 {
+  width: 151rpx;
+  height: 43rpx;
+  background: #EE3C3A;
+  margin-left: 40rpx;
+}
+

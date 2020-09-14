@@ -1,0 +1,255 @@
+.scroll.data-v-09ca22e5 {
+  height: 1600rpx;
+}
+.respects.data-v-09ca22e5 {
+  background: #F7F7F7;
+  padding: 20rpx 20rpx 100rpx 50rpx;
+  margin-top: 88rpx;
+}
+.respects .respects-card .respects-card-left.data-v-09ca22e5 {
+  margin-top: 90rpx;
+  position: relative;
+}
+.respects .respects-card .respects-card-left .day.data-v-09ca22e5 {
+  font-size: 70rpx;
+  font-weight: bold;
+  margin-bottom: -10rpx;
+}
+.respects .respects-card .respects-card-left .day-bor.data-v-09ca22e5 {
+  width: 91rpx;
+  height: 6rpx;
+  border-radius: 120rpx;
+  background: #00ABFA;
+}
+.respects .respects-card .respects-card-left .year.data-v-09ca22e5 {
+  font-size: 24rpx;
+  color: #1A1A1A;
+  width: 100rpx;
+}
+.respects .respects-card .respects-card-left .time-circle.data-v-09ca22e5 {
+  width: 14rpx;
+  height: 14rpx;
+  background: #000;
+  border-radius: 50%;
+  position: absolute;
+  right: -26rpx;
+  top: 60rpx;
+}
+.respects .respects-card .respects-card-right.data-v-09ca22e5 {
+  margin-left: 20rpx;
+  padding: 0 0 20rpx 20rpx;
+  border-left: 5rpx solid #ECECEC;
+}
+.respects .respects-card .respects-card-right .right-card.data-v-09ca22e5 {
+  background: #fff;
+  width: 515rpx;
+  border-radius: 20rpx;
+  margin-top: 20rpx;
+}
+.respects .respects-card .respects-card-right .right-card .right-title.data-v-09ca22e5 {
+  padding: 20rpx 40rpx 20rpx 30rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.respects .respects-card .respects-card-right .right-card .right-title .title-left image.data-v-09ca22e5 {
+  width: 60rpx;
+  height: 40rpx;
+}
+.respects .respects-card .respects-card-right .right-card .right-title .title-left .card-user.data-v-09ca22e5 {
+  font-size: 26rpx;
+  color: #333;
+  line-height: 50rpx;
+  margin-left: 10rpx;
+}
+.respects .respects-card .respects-card-right .right-card .right-title .title-left .card-time.data-v-09ca22e5 {
+  color: #808080;
+  font-size: 18rpx;
+  line-height: 60rpx;
+  margin-left: 10rpx;
+}
+.respects .respects-card .respects-card-right .right-card .right-title .share-btn.data-v-09ca22e5 {
+  width: 117rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  background: #00ABFA;
+  color: #fff;
+  font-size: 30rpx;
+  border-radius: 120rpx;
+  text-align: center;
+}
+.respects .respects-card .respects-card-right .right-card .right-subtitle.data-v-09ca22e5 {
+  padding: 0 20rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.respects .respects-card .respects-card-right .right-card .right-img.data-v-09ca22e5 {
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.respects .respects-card .respects-card-right .right-card .right-img image.data-v-09ca22e5 {
+  height: 912rpx;
+  width: 515rpx;
+}
+.share-mask.data-v-09ca22e5 {
+  position: fixed;
+  top: 0;
+  background: #8F8F94;
+  opacity: 0.4;
+  height: 100%;
+  width: 750rpx;
+  z-index: 998;
+}
+.share.data-v-09ca22e5 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 450rpx;
+  text-align: center;
+  background: #F2F2F2;
+  color: #333;
+  z-index: 999;
+}
+.share .share-text.data-v-09ca22e5 {
+  font-size: 30rpx;
+  margin-top: 70rpx;
+}
+.share .share-btn.data-v-09ca22e5 {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  margin-top: 60rpx;
+  font-size: 26rpx;
+}
+.share .share-btn image.data-v-09ca22e5 {
+  width: 100rpx;
+  height: 100rpx;
+}
+.share .share-cancel.data-v-09ca22e5 {
+  width: 100%;
+  height: 88rpx;
+  font-size: 26rpx;
+  color: #666;
+  background: #fff;
+  line-height: 88rpx;
+  margin-top: 60rpx;
+}
+.information.data-v-09ca22e5 {
+  background: #F7F7F7;
+  margin-top: 88rpx;
+}
+.information .infor-title.data-v-09ca22e5 {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 30rpx;
+  color: #808080;
+  height: 66rpx;
+  line-height: 66rpx;
+  background: #fff;
+  position: fixed;
+  background: #F7F7F7;
+  width: 100%;
+  z-index: 999;
+}
+.information .infor-title .infor-color.data-v-09ca22e5 {
+  color: #00ABFA;
+}
+.information .infor-main.data-v-09ca22e5 {
+  background: #fff;
+  padding: 40rpx;
+  padding-top: 80rpx;
+}
+.information .infor-main .infor-card.data-v-09ca22e5 {
+  height: 160rpx;
+  background: #fff;
+  border-bottom: 1rpx solid #F5F5F5;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.information .infor-main .infor-card .infor-card-left.data-v-09ca22e5 {
+  width: 460rpx;
+  margin-top: 10rpx;
+  position: relative;
+}
+.information .infor-main .infor-card .infor-card-left .card-title.data-v-09ca22e5 {
+  font-size: 26rpx;
+  color: #333;
+  font-weight: bold;
+}
+.information .infor-main .infor-card .infor-card-left .card-details.data-v-09ca22e5 {
+  font-size: 20rpx;
+  color: #4D4D4D;
+  margin-top: 10rpx;
+  width: 400rpx;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.information .infor-main .infor-card .infor-card-left .card-bottom.data-v-09ca22e5 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 20rpx;
+  color: #4D4D4D;
+  margin-top: 6rpx;
+  position: absolute;
+  bottom: 10rpx;
+  width: 100%;
+}
+.information .infor-main .infor-card .card-img.data-v-09ca22e5 {
+  width: 180rpx;
+  height: 120rpx;
+}
+.information .infor-main .infor-card .card-img .origin-img.data-v-09ca22e5 {
+  height: 120rpx;
+}
+.information .infor-main .infor-card .card-img image.data-v-09ca22e5 {
+  width: 180rpx;
+  height: 120rpx;
+  margin-top: 10rpx;
+}
+.generalize.data-v-09ca22e5 {
+  padding: 20rpx 30rpx;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-bottom: 60rpx;
+  margin-top: 88rpx;
+}
+.generalize .generalize-img.data-v-09ca22e5 {
+  margin-left: 20rpx;
+  margin-bottom: 30rpx;
+  width: 210rpx;
+  height: 373rpx;
+}
+.generalize .generalize-img image.data-v-09ca22e5 {
+  width: 210rpx;
+  height: 373rpx;
+}
+.generalize .generalize-img image.origin-img.data-v-09ca22e5 {
+  width: 210rpx;
+  height: 373rpx;
+  border-radius: 20rpx;
+  margin-bottom: 38rpx;
+}
+.tab-nav.data-v-09ca22e5 {
+  box-shadow: 0 2rpx 2rpx #EFEFEF;
+  height: 88rpx;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  line-height: 88rpx;
+  font-size: 30rpx;
+  color: #333;
+  font-weight: bold;
+  position: fixed;
+  background: #F7F7F7;
+  width: 100%;
+  z-index: 997;
+}
+.nav-color.data-v-09ca22e5 {
+  font-size: 34rpx;
+  color: #00ABFA;
+}
+

@@ -1,0 +1,1 @@
+<view class="con data-v-d123051a"><view class="promote top data-v-d123051a"><image class="promote-banner data-v-d123051a" src="{{pic}}" mode="widthFix"></image></view><view data-event-opts="{{[['tap',[['toBecome',['$event']]]]]}}" class="become data-v-d123051a" bindtap="__e">成为推卡客</view></view>

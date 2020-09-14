@@ -1,0 +1,225 @@
+{
+  "@platforms": [
+    "android",
+    "iPhone",
+    "iPad"
+  ],
+  "id": "__UNI__501CAC1",
+  "name": "卡易达",
+  "version": {
+    "name": "0.07",
+    "code": 7
+  },
+  "description": "kayida",
+  "launch_path": "__uniappview.html",
+  "developer": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "permissions": {
+    "Contacts": {},
+    "OAuth": {},
+    "Share": {},
+    "VideoPlayer": {},
+    "Payment": {},
+    "UniNView": {
+      "description": "UniNView原生渲染"
+    }
+  },
+  "plus": {
+    "useragent": {
+      "value": "uni-app",
+      "concatenate": true
+    },
+    "splashscreen": {
+      "target": "id:1",
+      "autoclose": true,
+      "waiting": true,
+      "delay": 0
+    },
+    "popGesture": "close",
+    "launchwebview": {
+      "id": "1",
+      "kernel": "WKWebview",
+      "uni-app": "auto"
+    },
+    "statusbar": {
+      "immersed": "supportedDevice",
+      "style": "light",
+      "background": "#00ABFA"
+    },
+    "compatible": {
+      "ignoreVersion": true
+    },
+    "usingComponents": true,
+    "distribute": {
+      "icons": {
+        "android": {
+          "hdpi": "unpackage/res/icons/72x72.png",
+          "xhdpi": "unpackage/res/icons/96x96.png",
+          "xxhdpi": "unpackage/res/icons/144x144.png",
+          "xxxhdpi": "unpackage/res/icons/192x192.png"
+        },
+        "ios": {
+          "appstore": "unpackage/res/icons/1024x1024.png",
+          "ipad": {
+            "app": "unpackage/res/icons/76x76.png",
+            "app@2x": "unpackage/res/icons/152x152.png",
+            "notification": "unpackage/res/icons/20x20.png",
+            "notification@2x": "unpackage/res/icons/40x40.png",
+            "proapp@2x": "unpackage/res/icons/167x167.png",
+            "settings": "unpackage/res/icons/29x29.png",
+            "settings@2x": "unpackage/res/icons/58x58.png",
+            "spotlight": "unpackage/res/icons/40x40.png",
+            "spotlight@2x": "unpackage/res/icons/80x80.png"
+          },
+          "iphone": {
+            "app@2x": "unpackage/res/icons/120x120.png",
+            "app@3x": "unpackage/res/icons/180x180.png",
+            "notification@2x": "unpackage/res/icons/40x40.png",
+            "notification@3x": "unpackage/res/icons/60x60.png",
+            "settings@2x": "unpackage/res/icons/58x58.png",
+            "settings@3x": "unpackage/res/icons/87x87.png",
+            "spotlight@2x": "unpackage/res/icons/80x80.png",
+            "spotlight@3x": "unpackage/res/icons/120x120.png"
+          }
+        }
+      },
+      "splashscreen": {
+        "android": {
+          "xxhdpi": "static/img/start_xxh.png",
+          "xhdpi": "static/img/start_xh.png",
+          "hdpi": "static/img/start_h.png"
+        },
+        "ios": {
+          "iphone": {
+            "portrait-896h@3x": "static/img/start_xxh.png",
+            "portrait-896h@2x": "static/img/start_xh.png",
+            "iphonex": "static/img/start_xxh.png",
+            "retina55": "static/img/start_xxh.png",
+            "retina47": "static/img/start_h.png",
+            "retina40": "static/img/start_h.png",
+            "retina35": "static/img/start_h.png",
+            "landscape-896h@3x": "static/img/start_xxh.png",
+            "landscape-896h@2x": "static/img/start_xh.png",
+            "iphonexl": "static/img/start_xxh.png",
+            "retina55l": "static/img/start_xxh.png",
+            "retina47l": "static/img/start_xxh.png",
+            "retina40l": "static/img/start_xh.png"
+          }
+        }
+      },
+      "google": {
+        "packagename": "io.kayida.hnzy",
+        "permissions": [
+          "<uses-feature android:name=\"android.hardware.camera\"/>",
+          "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CALL_PHONE\"/>",
+          "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+          "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+          "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+          "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+          "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+          "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+          "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+          "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+          "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
+          "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\"/>",
+          "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+        ]
+      },
+      "apple": {},
+      "plugins": {
+        "oauth": {
+          "weixin": {
+            "appid": "wx29a20459f0e4be12",
+            "appsecret": "2afafce5f51a6d12fec8ebb495097886",
+            "UniversalLinks": "https://www.zgkayida.com/ios/weixin/login/"
+          }
+        },
+        "payment": {
+          "alipay": {}
+        },
+        "share": {
+          "weixin": {
+            "appid": "wx29a20459f0e4be12",
+            "UniversalLinks": "https://www.zgkayida.com/ios/weixin/login/"
+          }
+        },
+        "ad": {},
+        "maps": {},
+        "audio": {
+          "mp3": {
+            "description": "Android平台录音支持MP3格式文件"
+          }
+        }
+      }
+    },
+    "compilerVersion": 2,
+    "allowsInlineMediaPlayback": true,
+    "safearea": {
+      "background": "#ffffff",
+      "bottom": {
+        "offset": "auto"
+      }
+    },
+    "uni-app": {
+      "compilerVersion": "2.6.11",
+      "control": "v8",
+      "nvueCompiler": "uni-app",
+      "renderer": "auto",
+      "nvue": {
+        "flex-direction": "column"
+      }
+    },
+    "tabBar": {
+      "color": "#7a7e83",
+      "selectedColor": "#04ACFA",
+      "backgroundColor": "#ffffff",
+      "list": [
+        {
+          "pagePath": "pages/main/main",
+          "text": "首页",
+          "iconPath": "static/img/home.png",
+          "selectedIconPath": "static/img/homeHL.png"
+        },
+        {
+          "pagePath": "pages/genra/genra",
+          "text": "推广",
+          "iconPath": "static/img/generalize.png",
+          "selectedIconPath": "static/img/generalizeHL.png"
+        },
+        {
+          "pagePath": "pages/order/order",
+          "text": "订单",
+          "iconPath": "static/img/order.png",
+          "selectedIconPath": "static/img/orderHL.png"
+        },
+        {
+          "pagePath": "pages/user/user",
+          "text": "我的",
+          "iconPath": "static/img/user.png",
+          "selectedIconPath": "static/img/userHL.png"
+        }
+      ],
+      "borderStyle": "rgba(0,0,0,0.4)",
+      "height": "50px",
+      "child": [
+        "lauchwebview"
+      ],
+      "selected": 0
+    }
+  },
+  "usingComponents": {}
+}

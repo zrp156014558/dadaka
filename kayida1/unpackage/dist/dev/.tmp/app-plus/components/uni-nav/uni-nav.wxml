@@ -1,0 +1,1 @@
+<view class="tab data-v-44202f13"><block wx:if="{{back}}"><view class="back-icon data-v-44202f13"><image class="back-img data-v-44202f13" src="../../static/img/back.png" mode data-event-opts="{{[['tap',[['goBack']]]]}}" bindtap="__e"></image></view></block><view class="title data-v-44202f13">{{text}}</view></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "推广链接",
+  "usingComponents": {
+    "easy-loadimage": "/components/easy-loadimage/easy-loadimage"
+  }
+}

@@ -1,0 +1,41 @@
+.con.data-v-662b435e {
+  background: #F7F7F7;
+}
+.con .main.data-v-662b435e {
+  padding: 20rpx 40rpx;
+}
+.con .main .no-record.data-v-662b435e {
+  font-size: 40rpx;
+  color: #999999;
+  text-align: center;
+  margin-top: 100rpx;
+  font-weight: bold;
+}
+.con .main .record-card.data-v-662b435e {
+  width: 630rpx;
+  height: 78rpx;
+  background: #fff;
+  padding: 20rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+.con .main .record-card .card-left .withdraw.data-v-662b435e {
+  font-size: 26rpx;
+  color: #333333;
+}
+.con .main .record-card .card-left .withdraw text.data-v-662b435e {
+  color: #00ABFA;
+}
+.con .main .record-card .card-left .time.data-v-662b435e {
+  font-size: 24rpx;
+  margin-top: 10rpx;
+  color: #808080;
+}
+.con .main .record-card .sum.data-v-662b435e {
+  line-height: 78rpx;
+  font-size: 30rpx;
+  color: #333;
+}
+

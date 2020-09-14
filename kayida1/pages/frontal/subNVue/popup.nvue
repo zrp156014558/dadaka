@@ -1,0 +1,76 @@
+<template>
+	<div v-bind:style="{ width: screenWidth+'px' }">
+		<!-- <div class="share" v-bind:style="{ width: screenWidth+'px' }">
+			<div class="share-text">选择要分享到的平台</div>
+			<div class="share-btn">
+				<div class="share-weixin">
+					<div>
+						<img class="image" src="static/img/share_weixin.png"></img>
+					</div>
+					
+					<div>微信</div>
+				</div>
+				<div class="share-friends">
+					<div>
+						<img class="image" src="static/img/share_friends.png"></img>
+					</div>
+					
+					<div>朋友圈</div>
+				</div>
+			</div>
+			<div class="share-cancel" @click="esc">取消分享</div>
+		</div> -->
+	</div>
+</template>
+
+<script>
+	// 获得设备的宽度
+	// var screenWidth = plus.screen.resolutionWidth;
+	export default {
+		data() {
+			return {
+				
+			}
+		},
+		created() {
+			
+		},
+		methods: {
+			esc() {
+				uni.$emit('escNvue','')
+			}
+		}
+	}
+</script>
+
+<style>
+	.share{
+		height: 300px;
+		text-align: center;
+		background-color: #F2F2F2;
+			color: #333;
+		}
+		.share-text{
+			font-size: 30upx;
+			margin-top: 70upx;
+			margin-left: 200upx;
+		}
+		/*.share-btn{
+			justify-content: space-around;
+			margin-top: 60upx;
+			font-size: 26upx;
+		}
+			.image{
+				width: 100upx;
+				height: 100upx;
+			}
+		.share-cancel{
+			width: 100%;
+			height: 88upx;
+			font-size: 26upx;
+			color: #666;
+			background-color: #fff;
+			line-height: 88upx;
+			margin-top: 50upx;
+		} */
+</style>

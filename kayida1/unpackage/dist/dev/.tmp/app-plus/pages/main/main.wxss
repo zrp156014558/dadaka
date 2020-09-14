@@ -1,0 +1,336 @@
+.r_bag .bag1.data-v-20b3dc76 {
+  position: fixed;
+  right: 40rpx;
+  top: 640rpx;
+  width: 150rpx;
+  height: 100rpx;
+  z-index: 999;
+}
+.rbag_model.data-v-20b3dc76 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+.rbag_model .rbag_con.data-v-20b3dc76 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 80%;
+    height: 840rpx;
+    background-color: #da4d44;
+    margin: auto;
+    border-radius: 14rpx;
+    box-shadow: 0rpx 0rpx 10rpx rgba(0, 0, 0, 0.2);
+}
+.rbag_model .rbag_con .rbag_top.data-v-20b3dc76 {
+      position: absolute;
+      left: -20%;
+      top: 0;
+      width: 140%;
+      height: 540rpx;
+      background-color: #e0534a;
+      border-radius: 0 0 50% 50%;
+      box-shadow: 0 0 14rpx rgba(0, 0, 0, 0.4);
+      z-index: 1001;
+}
+.rbag_model .rbag_con .rbag_top .rbag_top_info.data-v-20b3dc76 {
+        margin-top: 60rpx;
+}
+.rbag_model .rbag_con .rbag_top .rbag_top_info .rbag_logo.data-v-20b3dc76 {
+          width: 160rpx;
+          height: 160rpx;
+          border-radius: 50%;
+          display: block;
+          margin: 0 auto;
+          overflow: hidden;
+}
+.rbag_model .rbag_con .rbag_top .rbag_top_info .app_name.data-v-20b3dc76 {
+          font-size: 38rpx;
+          color: #f6ac96;
+          text-align: center;
+          margin-top: 18rpx;
+          letter-spacing: 1rpx;
+}
+.rbag_model .rbag_con .rbag_top .rbag_top_info .rbag_tips.data-v-20b3dc76 {
+          font-size: 50rpx;
+          color: #edddd3;
+          text-align: center;
+          margin-top: 34rpx;
+          letter-spacing: 1rpx;
+}
+.rbag_model .rbag_con .open_rbag_btn.data-v-20b3dc76 {
+      position: absolute;
+      top: 450rpx;
+      left: 0;
+      right: 0;
+      width: 180rpx;
+      height: 180rpx;
+      line-height: 180rpx;
+      border-radius: 50%;
+      margin: 0 auto;
+      text-align: center;
+      background-color: #ffd287;
+      font-size: 55rpx;
+      color: #fef5e8;
+      box-shadow: 2rpx 2rpx 6rpx rgba(0, 0, 0, 0.2);
+      z-index: 1002;
+}
+.rbag_model .rbag_con .hide_btn.data-v-20b3dc76 {
+      position: absolute;
+      bottom: -110rpx;
+      left: 0;
+      right: 0;
+      width: 80rpx;
+      height: 80rpx;
+      line-height: 80rpx;
+      text-align: center;
+      margin: 0 auto;
+}
+.rbag_model .hidden.data-v-20b3dc76 {
+    overflow: hidden;
+}
+.open_rbag_model.data-v-20b3dc76 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+}
+.open_rbag_model .rbag_conbg.data-v-20b3dc76 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 80%;
+    height: 840rpx;
+    margin: auto;
+    z-index: 1001;
+}
+.open_rbag_model .open_rbag_con.data-v-20b3dc76 {
+    z-index: 1002;
+}
+.open_rbag_model .open_rbag_con .open_title.data-v-20b3dc76 {
+      height: 120rpx;
+      line-height: 120rpx;
+      text-align: center;
+      font-size: 38rpx;
+      letter-spacing: 2rpx;
+      color: #e46965;
+}
+.open_rbag_model .open_rbag_con .rbag_detail.data-v-20b3dc76 {
+      margin-top: 90rpx;
+}
+.open_rbag_model .open_rbag_con .rbag_detail .open_money.data-v-20b3dc76 {
+        text-align: center;
+        font-size: 80rpx;
+        color: #c95948;
+        font-weight: bold;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+                justify-content: center;
+}
+.open_rbag_model .open_rbag_con .rbag_detail .open_money .danwei.data-v-20b3dc76 {
+          font-size: 30rpx;
+          margin-left: 16rpx;
+          margin-top: 24rpx;
+}
+.open_rbag_model .open_rbag_con .rbag_detail .open_tips.data-v-20b3dc76 {
+        text-align: center;
+        font-size: 30rpx;
+        color: #d26762;
+        margin-top: 30rpx;
+}
+.open_rbag_model .open_rbag_con .lookbag_box.data-v-20b3dc76 {
+      margin-top: 200rpx;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+              justify-content: center;
+}
+.open_rbag_model .open_rbag_con .lookbag_box .lookbag_btn.data-v-20b3dc76 {
+        width: 70%;
+        text-align: center;
+        font-size: 32rpx;
+        color: #c95948;
+        letter-spacing: 2rpx;
+        background-color: #ffd356;
+        border-radius: 50rpx;
+        box-shadow: 0rpx 0rpx 4rpx rgba(0, 0, 0, 0.2);
+}
+.open_rbag_model .open_rbag_con .hide_btn.data-v-20b3dc76 {
+      position: absolute;
+      bottom: -110rpx;
+      left: 0;
+      right: 0;
+      width: 80rpx;
+      height: 80rpx;
+      line-height: 80rpx;
+      text-align: center;
+      margin: 0 auto;
+}
+.swiper.data-v-20b3dc76 {
+  height: 350rpx;
+}
+.uni-padding-wrap image.data-v-20b3dc76 {
+  width: 100%;
+}
+.banner.data-v-20b3dc76 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 100rpx;
+}
+.banner image.data-v-20b3dc76 {
+  width: 200rpx;
+  height: 100rpx;
+  border-radius: 20rpx;
+}
+.list.data-v-20b3dc76 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.list-item.data-v-20b3dc76 {
+  margin-top: 46rpx;
+  width: 150rpx;
+  text-align: center;
+}
+.list-font.data-v-20b3dc76 {
+  font-size: 26rpx;
+}
+.list image.data-v-20b3dc76 {
+  width: 80rpx;
+  height: 80rpx;
+}
+.ttk.data-v-20b3dc76 {
+  /* height: 100rpx; */
+}
+.ttk image.data-v-20b3dc76 {
+  width: 100%;
+  height: 100rpx;
+  border-radius: 20rpx;
+  margin-top: 40rpx;
+}
+.infor-text.data-v-20b3dc76 {
+  font-size: 28rpx;
+  margin-top: 40rpx;
+  margin-bottom: 30rpx;
+  font-weight: bold;
+}
+.infor-img.data-v-20b3dc76 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.infor-img image.data-v-20b3dc76 {
+  width: 320rpx;
+  height: 200rpx;
+  border-radius: 20rpx;
+  margin-bottom: 20rpx;
+}
+.footer-img.data-v-20b3dc76 {
+  margin-bottom: 20rpx;
+}
+.footer-img image.data-v-20b3dc76 {
+  width: 100%;
+  border-radius: 20rpx;
+}
+.popup.data-v-20b3dc76 {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  z-index: 999;
+}
+.popup .popup-bg.data-v-20b3dc76 {
+    background: #8F8F94;
+    height: 100%;
+    z-index: 999;
+    opacity: 0.5;
+}
+.rule.data-v-20b3dc76 {
+  position: absolute;
+  width: 550rpx;
+  text-align: center;
+  background: #fff;
+  border-radius: 20rpx;
+  padding-bottom: 40rpx;
+  top: 300rpx;
+  left: 100rpx;
+  z-index: 1001;
+}
+.rule image.data-v-20b3dc76 {
+    width: 100%;
+    height: 171rpx;
+}
+.rule .rule-main.data-v-20b3dc76 {
+    overflow: auto;
+    padding: 34rpx;
+    font-size: 26rpx;
+    font-weight: bold;
+    color: #333;
+    min-height: 200rpx;
+    max-height: 600rpx;
+    border-bottom: 1rpx solid #F4F4F4;
+}
+.rule .rule-main .rule-title.data-v-20b3dc76 {
+      font-size: 30rpx;
+      font-weight: bold;
+}
+.rule .rule-main .rule-time.data-v-20b3dc76 {
+      font-size: 24rpx;
+      color: #808080;
+      font-weight: 100;
+}
+.rule .rule-main .trait.data-v-20b3dc76 {
+      margin-top: 20rpx;
+}
+.rule .rule-main text.data-v-20b3dc76 {
+      font-weight: 100;
+}
+.rule .rule-btn.data-v-20b3dc76 {
+    -webkit-justify-content: space-around;
+            justify-content: space-around;
+    font-size: 30rpx;
+    color: #fff;
+    text-align: center;
+    margin-top: 40rpx;
+}
+.rule .rule-btn .rule-next.data-v-20b3dc76 {
+      padding: 10rpx 30rpx;
+      background: #00ABFA;
+      border-radius: 120rpx;
+}
+.rule .rule-btn .rule-close.data-v-20b3dc76 {
+      padding: 10rpx 30rpx;
+      background: #00ABFA;
+      border-radius: 120rpx;
+}
+

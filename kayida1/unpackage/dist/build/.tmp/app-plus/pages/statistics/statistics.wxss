@@ -1,0 +1,26 @@
+.con.data-v-3601f250 {
+  background: #F7F7F7;
+}
+.con .statis-main.data-v-3601f250 {
+  padding: 10rpx 40rpx;
+}
+.con .statis-main .statis-card.data-v-3601f250 {
+  background: #fff;
+  height: 187rpx;
+  margin-top: 20rpx;
+}
+.con .statis-main .statis-card .sta-title.data-v-3601f250 {
+  margin-left: 20rpx;
+  border-left: 5rpx solid #00ABFA;
+  font-size: 26rpx;
+  color: #333;
+  padding-left: 5rpx;
+}
+.con .statis-main .statis-card .sta-de.data-v-3601f250 {
+  text-align: center;
+  font-size: 48rpx;
+  color: #333;
+  height: 150rpx;
+  line-height: 150rpx;
+}
+

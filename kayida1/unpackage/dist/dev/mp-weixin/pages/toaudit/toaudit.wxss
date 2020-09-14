@@ -1,0 +1,79 @@
+.con.data-v-0726b767 {
+  background: #F8F8F8;
+}
+.con .none.data-v-0726b767 {
+  font-size: 30rpx;
+  color: ccc;
+  line-height: 800rpx;
+  height: 800rpx;
+  text-align: center;
+}
+.con .audit.data-v-0726b767 {
+  margin-top: 40rpx;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.con .audit .audit-card.data-v-0726b767 {
+  text-align: center;
+  margin-left: 40rpx;
+  margin-bottom: 40rpx;
+}
+.con .audit .audit-card .audit-card-top.data-v-0726b767 {
+  width: 200rpx;
+  height: 215rpx;
+  background: #fff;
+}
+.con .audit .audit-card .audit-card-top image.data-v-0726b767 {
+  width: 96rpx;
+  height: 96rpx;
+  border-radius: 50%;
+  margin-top: 16rpx;
+}
+.con .audit .audit-card .audit-card-top .audit-card-title.data-v-0726b767 {
+  font-size: 26rpx;
+  color: #333;
+  margin-top: 10rpx;
+}
+.con .audit .audit-card .audit-card-top .audit-title-price.data-v-0726b767 {
+  font-size: 26rpx;
+  color: #00ABFA;
+  margin-top: 10rpx;
+}
+.con .audit-btn.data-v-0726b767 {
+  width: 150rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  background: #00ABFA;
+  color: #fff;
+  border-radius: 120rpx;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  margin-left: 25rpx;
+}
+.con .audit-btn1.data-v-0726b767 {
+  width: 150rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  background: #fff;
+  border: 1rpx solid #00ABFA;
+  color: #00ABFA;
+  border-radius: 120rpx;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  margin-left: 25rpx;
+}
+.con .audit-btn2.data-v-0726b767 {
+  width: 150rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  background: #FD2D2D;
+  color: #fff;
+  border-radius: 120rpx;
+  font-size: 26rpx;
+  margin-top: 20rpx;
+  margin-left: 25rpx;
+}
+

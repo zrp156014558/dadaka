@@ -1,0 +1,127 @@
+.con .uploading.data-v-38f657b7 {
+  padding: 10rpx 40rpx;
+}
+.con .uploading .uploading-text.data-v-38f657b7 {
+  margin-top: 30rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .uploading .pic-f .screenshot.data-v-38f657b7 {
+  margin-left: 245rpx;
+  margin-top: 150rpx;
+  width: 180rpx;
+  height: 180rpx;
+}
+.con .uploading .pic-f .screenshot-succ.data-v-38f657b7 {
+  margin-left: 185rpx;
+  margin-top: 90rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.con .explain.data-v-38f657b7 {
+  margin-top: 100rpx;
+  margin-bottom: 100rpx;
+}
+.con .explain .explain-text.data-v-38f657b7 {
+  font-size: 26rpx;
+  color: #333;
+  margin-bottom: 40rpx;
+}
+.con .uploading-btn.data-v-38f657b7 {
+  width: 100%;
+  font-size: 26rpx;
+  color: #fff;
+  background: #00ABFA;
+  text-align: center;
+  height: 88rpx;
+  line-height: 88rpx;
+  position: fixed;
+  bottom: 0;
+}
+.con .popup.data-v-38f657b7 {
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  color: #00ABFA;
+  font-size: 26rpx;
+}
+.con .popup .popup-bg.data-v-38f657b7 {
+  opacity: 0.6;
+  background: #6C6C6C;
+  z-index: 999;
+  height: 100%;
+}
+.con .popup .animation.data-v-38f657b7 {
+  position: relative;
+  -webkit-animation-duration: 0.2s;
+          animation-duration: 0.2s;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+}
+.con .popup .animation-name.data-v-38f657b7 {
+  -webkit-animation-name: pop-data-v-38f657b7;
+          animation-name: pop-data-v-38f657b7;
+}
+.con .popup .animation-cname.data-v-38f657b7 {
+  -webkit-animation-name: cpop-data-v-38f657b7;
+          animation-name: cpop-data-v-38f657b7;
+}
+@-webkit-keyframes pop-data-v-38f657b7 {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@keyframes pop-data-v-38f657b7 {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@-webkit-keyframes cpop-data-v-38f657b7 {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+@keyframes cpop-data-v-38f657b7 {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+.con .popup .downpic.data-v-38f657b7 {
+  height: 80rpx;
+  line-height: 80rpx;
+  position: absolute;
+  bottom: 100rpx;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+  width: 650rpx;
+}
+.con .popup .cancel.data-v-38f657b7 {
+  height: 80rpx;
+  line-height: 80rpx;
+  width: 650rpx;
+  position: absolute;
+  bottom: 0;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+}
+

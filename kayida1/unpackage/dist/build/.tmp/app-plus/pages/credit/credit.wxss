@@ -1,0 +1,33 @@
+.con.data-v-51d0c1b0 {
+  background: #F7F7F7;
+}
+.con .credit-main.data-v-51d0c1b0 {
+  padding: 0 40rpx;
+}
+.con .credit-main image.data-v-51d0c1b0 {
+  width: 670rpx;
+  height: 156rpx;
+  margin-top: 10rpx;
+}
+.con .credit-btn.data-v-51d0c1b0 {
+  color: #fff;
+  background: #00ABFA;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  font-size: 26rpx;
+}
+.con .credit-page.data-v-51d0c1b0 {
+  margin-top: 10rpx;
+  background: #fff;
+  height: 365rpx;
+}
+.con .credit-page .page-content.data-v-51d0c1b0 {
+  text-align: center;
+  font-size: 26rpx;
+  overflow: auto;
+}
+

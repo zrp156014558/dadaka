@@ -1,0 +1,110 @@
+.top.data-v-7366a7f2 {
+  padding-top: 20rpx;
+}
+.top .title.data-v-7366a7f2 {
+  margin-top: 40rpx;
+  text-align: center;
+  font-size: 30rpx;
+  color: #333;
+}
+.top .main.data-v-7366a7f2 {
+  margin-top: 20rpx;
+  border-top: 5rpx solid #E4E4E4;
+  padding: 0 40rpx;
+}
+.top .main .form-phone.data-v-7366a7f2 {
+  margin-top: 25rpx;
+  padding-bottom: 25rpx;
+  border-bottom: 1rpx solid #E4E4E4;
+}
+.top .main .form-phone .phone-logo.data-v-7366a7f2 {
+  width: 27rpx;
+  height: 43rpx;
+}
+.top .main .form-phone .phone-ipt.data-v-7366a7f2 {
+  margin-left: 42rpx;
+}
+.top .main .form-phone .phone-ipt .uni-input-placeholder.data-v-7366a7f2 {
+  color: #BFBFBF;
+  font-size: 26rpx;
+}
+.top .main .form-auth.data-v-7366a7f2 {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #E4E4E4;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 60rpx;
+  line-height: 80rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.top .main .form-auth .auth-logo.data-v-7366a7f2 {
+  margin-top: 10rpx;
+  width: 33rpx;
+  height: 37rpx;
+}
+.top .main .form-auth .auth-ipt.data-v-7366a7f2 {
+  margin-top: 10rpx;
+  margin-left: 40rpx;
+}
+.top .main .form-auth .auth-ipt .uni-input-placeholder.data-v-7366a7f2 {
+  color: #BFBFBF;
+  font-size: 26rpx;
+}
+.top .main .form-auth .gain-auth.data-v-7366a7f2 {
+  font-size: 26rpx;
+  width: 240rpx;
+  text-align: center;
+  color: #00ABFA;
+  padding: 0 20rpx;
+  border-left: 2rpx solid #E4E4E4;
+  height: 40rpx;
+  line-height: 40rpx;
+}
+.top .main .form-auth .gain-auth .font-c.data-v-7366a7f2 {
+  color: #333;
+}
+.top .main .form-pwd.data-v-7366a7f2 {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #E4E4E4;
+}
+.top .main .form-pwd .pwd-logo.data-v-7366a7f2 {
+  margin-top: 10rpx;
+  width: 35rpx;
+  height: 35rpx;
+}
+.top .main .form-pwd .pwd-ipt.data-v-7366a7f2 {
+  margin-top: 10rpx;
+  margin-left: 38rpx;
+  height: 50rpx;
+}
+.top .main .form-pwd .pwd-ipt .uni-input-placeholder.data-v-7366a7f2 {
+  color: #BFBFBF;
+  font-size: 26rpx;
+  line-height: 50rpx;
+}
+.top .main-bottom.data-v-7366a7f2 {
+  padding: 60rpx;
+  margin-top: 40rpx;
+}
+.top .main-bottom .reg-btn.data-v-7366a7f2 {
+  font-size: 36rpx;
+  color: #fff;
+  background: #00ABFA;
+  width: 630rpx;
+  height: 86rpx;
+  text-align: center;
+  line-height: 86rpx;
+  border-radius: 20rpx;
+}
+.top .main-bottom .agreement.data-v-7366a7f2 {
+  margin-top: 20rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.top .main-bottom .agreement .user-agreement.data-v-7366a7f2 {
+  color: #00ABFA;
+}
+

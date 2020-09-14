@@ -1,0 +1,18 @@
+.con .promote.data-v-d123051a {
+  margin-bottom: 90rpx;
+}
+.con .promote .promote-banner.data-v-d123051a {
+  width: 750rpx;
+}
+.con .become.data-v-d123051a {
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #00ABFA;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  font-size: 30rpx;
+}
+

@@ -1,0 +1,101 @@
+.con .com-top.data-v-94c90df6 {
+  position: relative;
+  height: 360rpx;
+}
+.con .com-top image.data-v-94c90df6 {
+  width: 750rpx;
+  height: 360rpx;
+}
+.con .com-top .com-title.data-v-94c90df6 {
+  color: #FEFEFE;
+  position: absolute;
+  top: 320rpx;
+  left: 74rpx;
+  font-size: 26rpx;
+  font-weight: bold;
+}
+.con .com-top .com-title .bank.data-v-94c90df6 {
+  margin-left: 25rpx;
+}
+.con .com-top .com-title .bonus.data-v-94c90df6 {
+  margin-left: 60rpx;
+}
+.con .com-top .com-title .condition.data-v-94c90df6 {
+  margin-left: 20rpx;
+}
+.con .com-top .com-title .way.data-v-94c90df6 {
+  margin-left: 25rpx;
+}
+.con .com-top .com-title .cycle.data-v-94c90df6 {
+  margin-left: 25rpx;
+}
+.con .com-bottom.data-v-94c90df6 {
+  width: 750rpx;
+  height: 1000rpx;
+  margin-bottom: -10rpx;
+}
+.con .blue-bg.data-v-94c90df6 {
+  background: #020F31;
+  background-image: -webkit-linear-gradient(top right, #2D0C56, #020F31);
+  background-image: linear-gradient(to bottom left, #2D0C56, #020F31);
+  z-index: 1;
+}
+.con .purple-bg.data-v-94c90df6 {
+  background: #A731D8;
+  background-image: -webkit-linear-gradient(#A731D8, #0818AB);
+  background-image: linear-gradient(#A731D8, #0818AB);
+  z-index: 2;
+  margin-left: 21rpx;
+  width: 710rpx;
+}
+.con .white-bg.data-v-94c90df6 {
+  background: #fff;
+  z-index: 3;
+  margin-left: 30rpx;
+  width: 654rpx;
+}
+.con .table.data-v-94c90df6 {
+  border-top: 5rpx solid #333;
+  width: 660rpx;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 20rpx;
+  font-weight: bold;
+}
+.con .table .row.data-v-94c90df6 {
+  display: table;
+  height: 70rpx;
+}
+.con .table .row view.data-v-94c90df6 {
+  border-left: 5rpx solid #333;
+  border-right: 5rpx solid #333;
+  border-bottom: 5rpx solid #333;
+  text-align: center;
+}
+.con .table .row .name.data-v-94c90df6 {
+  width: 150rpx;
+  display: table-cell;
+  vertical-align: middle;
+  color: #A831D8;
+}
+.con .table .row .bonus.data-v-94c90df6 {
+  width: 100rpx;
+  display: table-cell;
+  vertical-align: middle;
+}
+.con .table .row .period.data-v-94c90df6 {
+  width: 130rpx;
+  display: table-cell;
+  vertical-align: middle;
+}
+.con .table .row .term.data-v-94c90df6 {
+  width: 130rpx;
+  display: table-cell;
+  vertical-align: middle;
+}
+.con .table .row .type.data-v-94c90df6 {
+  width: 130rpx;
+  display: table-cell;
+  vertical-align: middle;
+}
+

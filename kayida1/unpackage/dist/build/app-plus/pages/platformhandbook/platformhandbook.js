@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"con.",[1],"data-v-3f5663da { background: #F7F7F7; }\n",],undefined,{path:"./pages/platformhandbook/platformhandbook.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/platformhandbook/platformhandbook.wxml') } }));

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单",
+  "usingComponents": {
+    "sib-list": "/components/sib-list/sib-list",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "tab-control": "/components/tabControl-tag/tabControl-tag"
+  }
+}

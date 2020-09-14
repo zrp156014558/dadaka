@@ -1,0 +1,135 @@
+.con.data-v-1c6be6cd {
+  background: #F7F7F7;
+}
+.con .applypage-main.data-v-1c6be6cd {
+  padding: 0 40rpx;
+}
+.con .applypage-main .applypage-top.data-v-1c6be6cd {
+  background: #fff;
+  height: 730rpx;
+  z-index: 999;
+}
+.con .applypage-main .applypage-top .applypage-banner.data-v-1c6be6cd {
+  height: 300rpx;
+  width: 100%;
+}
+.con .applypage-main .applypage-top .applypage-top-list.data-v-1c6be6cd {
+  border-bottom: 1rpx solid #EAEAEA;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item.data-v-1c6be6cd {
+  height: 85rpx;
+  border-top: 1rpx solid #EAEAEA;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item view.data-v-1c6be6cd {
+  width: 60rpx;
+  margin-top: 25rpx;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item .apply-name.data-v-1c6be6cd {
+  width: 34rpx;
+  height: 36rpx;
+  margin-left: 23rpx;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item .identitycard.data-v-1c6be6cd {
+  width: 39rpx;
+  height: 30rpx;
+  margin-left: 20rpx;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item .apply-phone.data-v-1c6be6cd {
+  width: 30rpx;
+  height: 45rpx;
+  margin-left: 25rpx;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item input.data-v-1c6be6cd {
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  font-size: 26rpx;
+  width: 560rpx;
+}
+.con .applypage-main .applypage-top .applypage-top-list .top-list-item input .uni-input-placeholder.data-v-1c6be6cd {
+  color: B3B3B3;
+}
+.con .applypage-main .applypage-top .protocol.data-v-1c6be6cd {
+  margin-top: 30rpx;
+  margin-left: 30rpx;
+}
+.con .applypage-main .applypage-top .protocol .pitch.data-v-1c6be6cd {
+  width: 25rpx;
+  height: 25rpx;
+}
+.con .applypage-main .applypage-top .protocol .protocol-text.data-v-1c6be6cd {
+  margin-left: 10rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .applypage-main .applypage-top .protocol .protocol-text text.data-v-1c6be6cd {
+  color: #00ABFA;
+}
+.con .applypage-main .applypage-top .change-proposer.data-v-1c6be6cd {
+  width: 160rpx;
+  height: 56rpx;
+  line-height: 56rpx;
+  text-align: center;
+  color: #fff;
+  background: #00ABFA;
+  border-radius: 20rpx;
+  margin-left: 255rpx;
+  margin-top: 30rpx;
+  font-size: 26rpx;
+}
+.con .applypage-main .need-attention.data-v-1c6be6cd {
+  margin-top: 20rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333;
+}
+.con .applypage-main .need-attention .attention.data-v-1c6be6cd {
+  background: #fff;
+  margin-bottom: 100rpx;
+}
+.con .application-btn.data-v-1c6be6cd {
+  width: 100%;
+  height: 88rpx;
+  line-height: 88rpx;
+  font-size: 26rpx;
+  color: #fff;
+  background: #00ABFA;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 999;
+}
+.con .rule.data-v-1c6be6cd {
+  width: 600rpx;
+  height: 630rpx;
+  background-color: #fff;
+  border-radius: 20rpx;
+}
+.con .rule .rule-main.data-v-1c6be6cd {
+  margin-top: 20rpx;
+  padding: 0 40rpx;
+}
+.con .rule .rule-title image.data-v-1c6be6cd {
+  width: 600rpx;
+  height: 150rpx;
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;
+}
+.con .rule .rule-btn.data-v-1c6be6cd {
+  position: absolute;
+  bottom: 0;
+  height: 110rpx;
+  font-size: 34rpx;
+  border-top: 1rpx solid #DDDDDD;
+  line-height: 110rpx;
+  text-align: center;
+}
+.con .rule .rule-btn .refuse.data-v-1c6be6cd {
+  color: #333;
+  width: 300rpx;
+  border-right: 1rpx solid #DDDDDD;
+}
+.con .rule .rule-btn .agree.data-v-1c6be6cd {
+  color: #00ABFA;
+  width: 300rpx;
+}
+

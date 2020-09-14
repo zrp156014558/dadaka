@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "卡易达",
+  "usingComponents": {
+    "m-input": "/components/m-input"
+  }
+}

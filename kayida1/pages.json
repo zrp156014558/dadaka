@@ -1,0 +1,415 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页,
+        {
+            "path": "pages/main/main",
+            "style": {
+				"navigationBarTitleText":"首页",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+            }
+        }, {
+            "path": "pages/login/login",
+            "style": {
+				"navigationBarTitleText":"登录"
+            }
+        }, {
+            "path": "pages/reg/reg",
+            "style": {
+				"navigationBarTitleText":"注册"
+            }
+        }, {
+            "path": "pages/user/user",
+            "style": {
+                "navigationStyle":"custom",
+				"enablePullDownRefresh": true,
+				"backgroundTextStyle": "dark"
+            }
+        }
+        ,{
+            "path" : "pages/genra/genra",
+            "style" : {
+				"enablePullDownRefresh": true,
+				"backgroundTextStyle": "dark",
+				"navigationBarTitleText":"推广"
+			}
+        }
+        ,{
+            "path" : "pages/order/order",
+            "style" : {
+				"navigationBarTitleText":"订单"
+			}
+        }
+        ,{
+            "path" : "pages/credit/credit",
+            "style" : {
+				"navigationBarTitleText":"信用查询"
+			}
+        }
+        ,{
+            "path" : "pages/sysmess/sysmess",
+            "style" : {
+				"navigationBarTitleText":"系统消息"
+			}
+        }
+        ,{
+            "path" : "pages/loan/loan",
+            "style" : {
+				"navigationBarTitleText":"我要贷款"
+			}
+        }
+        ,{
+            "path" : "pages/card/card",
+            "style" : {
+				"navigationBarTitleText":"我要办卡"
+			}
+        }
+        ,{
+            "path" : "pages/withdrawal/withdrawal",
+            "style" : {
+				"enablePullDownRefresh": true,
+				"backgroundTextStyle": "dark",
+				"navigationBarTitleText":"提现"
+			}
+        }
+        ,{
+            "path" : "pages/affirmrecord/affirmrecord",
+            "style" : {
+				"navigationBarTitleText":"提现记录"
+			}
+        }
+        ,{
+            "path" : "pages/forgetpwd/forgetpwd",
+            "style" : {
+				"navigationBarTitleText":"卡易达"
+			}
+        }
+        ,{
+            "path" : "pages/userareement/userareement",
+            "style" : {
+				"navigationBarTitleText":"用户协议"
+			}
+        }
+        ,{
+            "path" : "pages/systemnotice/systemnotice",
+            "style" : {
+				"navigationBarTitleText":"系统公告"
+			}
+        }
+        ,{
+            "path" : "pages/taskcenter/taskcenter",
+            "style" : {
+				"navigationBarTitleText":"任务中心"
+			}
+        }
+        ,{
+            "path" : "pages/promotioncenter/promotioncenter",
+            "style" : {
+				"navigationBarTitleText":"推广中心"
+			}
+        }
+        ,{
+            "path" : "pages/myteam/myteam",
+            "style" : {
+				"navigationBarTitleText":"我的团队"
+			}
+        }
+        ,{
+            "path" : "pages/toaudit/toaudit",
+            "style" : {
+				"navigationBarTitleText":"任务中心"
+			}
+        }
+        ,{
+            "path" : "pages/service/service",
+            "style" : {
+				"navigationBarTitleText":"联系客服"
+			}
+        }
+        ,{
+            "path" : "pages/advice/advice",
+            "style" : {
+				"navigationBarTitleText":"投诉建议"
+			}
+        }
+        ,{
+            "path" : "pages/bind/bind",
+            "style" : {
+				"navigationBarTitleText":"晋升推卡客"
+			}
+        }
+        ,{
+            "path" : "pages/sencondloans/sencondloans",
+            "style" : {
+				"navigationBarTitleText":""
+			}
+        }
+        ,{
+            "path" : "pages/guide/guide",
+            "style" : {
+				"navigationBarTitleText":"申请指南"
+			}
+        }
+        ,{
+            "path" : "pages/course/course",
+            "style" : {
+				"navigationBarTitleText":"提额专区"
+			}
+        }
+        ,{
+            "path" : "pages/loan6/loan6",
+            "style" : {
+				"navigationBarTitleText":"企业信贷"
+			}
+        }
+        ,{
+            "path" : "pages/realname/realname",
+            "style" : {
+				"navigationBarTitleText":"实名认证"
+			}
+        }
+        ,{
+            "path" : "pages/onapplication/onapplication",
+            "style" : {
+				"navigationBarTitleText":"在线申请"
+			}
+        }
+        ,{
+            "path" : "pages/applycard/applycard",
+            "style" : {
+				"navigationBarTitleText":"申请"
+			}
+        }
+        ,{
+            "path" : "pages/mynews/mynews",
+            "style" : {
+				"navigationBarTitleText":"我的消息"
+			}
+        }
+        ,{
+            "path" : "pages/accountdetails/accountdetails",
+            "style" : {
+				"navigationBarTitleText":"账户明细"
+			}
+        }
+        ,{
+            "path" : "pages/problem/problem",
+            "style" : {
+				"navigationBarTitleText":"常见问题"
+			}
+        }
+        ,{
+            "path" : "pages/coursecenter/coursecenter",
+            "style" : {
+				"navigationBarTitleText":"课程中心"
+			}
+        }
+        ,{
+            "path" : "pages/handbook/handbook",
+            "style" : {
+				"navigationBarTitleText":"平台手册"
+			}
+        }
+        ,{
+            "path" : "pages/promotelinks/promotelinks",
+            "style" : {
+				"navigationBarTitleText":"推广链接"
+			}
+        }
+        ,{
+            "path" : "pages/statistics/statistics",
+            "style" : {
+				"navigationBarTitleText":"团队统计"
+			}
+        }
+        ,{
+            "path" : "pages/team/team",
+            "style" : {
+				"navigationBarTitleText":"我的团队"
+			}
+        }
+        ,{
+            "path" : "pages/materials/materials",
+            "style" : {
+				"navigationBarTitleText":"物料推广"
+			}
+        }
+        ,{
+            "path" : "pages/commission/commission",
+            "style" : {
+				"navigationBarTitleText":"推广费用"
+			}
+        }
+        ,{
+            "path" : "pages/problemdetail/problemdetail",
+            "style" : {
+				"navigationBarTitleText":"常见问题"
+			}
+        }
+        ,{
+            "path" : "pages/platformhandbook/platformhandbook",
+            "style" : {
+				"navigationBarTitleText":"平台手册"
+			}
+        }
+        ,{
+            "path" : "pages/newsdetail/newsdetail",
+            "style" : {
+				"navigationBarTitleText":"详情",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "\ue61f",
+								"fontSrc": "/static/font_iy36tpu1yv/iconfont.ttf",
+								"fontSize": "22px",
+								"float":"right"
+							}
+						]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/materguide/materguide",
+            "style" : {
+				"navigationBarTitleText":"申请指南"
+			}
+        }
+        ,{
+            "path" : "pages/checkprogress/checkprogress",
+            "style" : {
+				"navigationBarTitleText":"查询进度"
+			}
+        }
+        ,{
+            "path" : "pages/carousellinks/carousellinks",
+            "style" : {
+				"navigationBarTitleText":""
+			}
+        }
+        ,{
+            "path" : "pages/topromote/topromote",
+            "style" : {
+				"navigationBarTitleText":"我要推广"
+			}
+        }
+        ,{
+            "path" : "pages/teamaward/teamaward",
+            "style" : {
+				"navigationBarTitleText":"团队奖励"
+			}
+        }
+        ,{
+            "path" : "pages/gettask/gettask",
+            "style" : {
+				"navigationBarTitleText":""
+			}
+        }
+        ,{
+            "path" : "pages/uploading/uploading",
+            "style" : {
+				"navigationBarTitleText":"上传截图"
+			}
+        }
+        ,{
+            "path" : "pages/frontal/frontal",
+            "style" : {
+				"navigationBarTitleText":"提额攻略",
+				"app-plus": {
+					"subNVues":[{
+						"id":"share",
+						"path":"pages/frontal/subNVue/popup",
+						"style": {
+							// "width": "100%",
+							// "height": "300px",
+							// "background": "transparent",
+							// "position":"dock",
+							// "dock":"bottom",
+							// "bottom":"0"
+						}
+					}],
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "\ue61f",
+								"fontSrc": "/static/font_iy36tpu1yv/iconfont.ttf",
+								"fontSize": "22px",
+								"float":"right"
+							}
+						]
+					}
+				}
+			}
+        }
+        ,{
+            "path" : "pages/loansdetail/loansdetail",
+            "style" : {
+				"navigationBarTitleText":""
+			}
+        }
+        ,{
+            "path" : "pages/loan2/loan2",
+            "style" : {
+				"navigationBarTitleText":"注册拉新"
+			}
+        }
+        ,{
+            "path" : "pages/invite/invite",
+            "style" : {
+				"navigationBarTitleText":"邀请推卡客"
+			}
+        }
+        ,{
+            "path" : "pages/become/become",
+            "style" : {
+				"navigationBarTitleText":"邀请推卡客"
+			}
+        }
+        ,{
+            "path" : "pages/userinformation/userinformation",
+            "style" : {
+				"navigationBarTitleText":"个人信息"
+			}
+        }
+        ,{
+            "path" : "pages/teamorder/teamorder",
+            "style" : {
+				"navigationBarTitleText":"团队订单"
+			}
+        }
+    ],
+    "tabBar": {
+        "color": "#7a7e83",
+        "selectedColor": "#04ACFA",
+        "backgroundColor": "#ffffff",
+        "list": [{
+            "pagePath": "pages/main/main",
+            "text": "首页",
+            "iconPath": "static/img/home.png",
+            "selectedIconPath": "static/img/homeHL.png"
+        }, {
+            "pagePath": "pages/genra/genra",
+            "text": "推广",
+            "iconPath": "static/img/generalize.png",
+            "selectedIconPath": "static/img/generalizeHL.png"
+        },{
+            "pagePath": "pages/order/order",
+            "text": "订单",
+            "iconPath": "static/img/order.png",
+            "selectedIconPath": "static/img/orderHL.png"
+        },{
+            "pagePath": "pages/user/user",
+            "text": "我的",
+            "iconPath": "static/img/user.png",
+            "selectedIconPath": "static/img/userHL.png"
+        }]
+    },
+    "globalStyle": {
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#00ABFA",
+        "backgroundColor": "#fbf9fe"
+    }
+}

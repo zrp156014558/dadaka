@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "用户协议",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav/uni-nav"
+  }
+}

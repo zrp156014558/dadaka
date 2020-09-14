@@ -1,0 +1,108 @@
+.main.data-v-7c7cddc0 {
+  padding: 40rpx;
+  background: #F7F7F7;
+  height: 100%;
+}
+.main .user.data-v-7c7cddc0 {
+  width: 590rpx;
+  height: 284rpx;
+  background: #fff;
+  margin-left: 40rpx;
+  text-align: center;
+  font-size: 26rpx;
+  color: #808080;
+  border-radius: 10rpx;
+}
+.main .user .head-pic image.data-v-7c7cddc0 {
+  margin-top: 30rpx;
+  width: 90rpx;
+  height: 90rpx;
+}
+.main .user .user-mess.data-v-7c7cddc0 {
+  text-align: left;
+  margin-left: 150rpx;
+}
+.main .user .nickname.data-v-7c7cddc0 {
+  color: #333333;
+  margin-top: 4rpx;
+}
+.main .user text.data-v-7c7cddc0 {
+  color: #333;
+}
+.main .user .name.data-v-7c7cddc0 {
+  margin-top: 6rpx;
+}
+.main .user .bank-card.data-v-7c7cddc0 {
+  margin-top: 6rpx;
+}
+.main .draw-card.data-v-7c7cddc0 {
+  width: 510rpx;
+  height: 155rpx;
+  margin-left: 40rpx;
+  margin-top: 40rpx;
+  background: #fff;
+  border-radius: 10rpx;
+  padding: 30rpx 40rpx;
+}
+.main .draw-card .draw-to.data-v-7c7cddc0 {
+  font-size: 26rpx;
+  font-weight: bold;
+}
+.main .draw-card .draw-to text.data-v-7c7cddc0 {
+  font-weight: 500;
+  margin-left: 40rpx;
+  color: #00ABFA;
+}
+.main .draw-card .draw-sum.data-v-7c7cddc0 {
+  margin-top: 20rpx;
+  border-bottom: 1rpx solid #F7F7F7;
+  font-size: 48rpx;
+}
+.main .draw-card .draw-sum .draw-ipt.data-v-7c7cddc0 {
+  height: 64rpx;
+  margin-left: 10rpx;
+  font-size: 48rpx;
+}
+.main .draw-card .draw-sum .draw-ipt .uni-input-placeholder.data-v-7c7cddc0 {
+  font-size: 48rpx;
+}
+.main .draw-card .draw-f.data-v-7c7cddc0 {
+  margin-top: 10rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.main .draw-card .draw-f .can-draw.data-v-7c7cddc0 {
+  font-size: 20rpx;
+  color: #808080;
+}
+.main .draw-card .draw-f .all-draw.data-v-7c7cddc0 {
+  font-size: 24rpx;
+  color: #00ABFA;
+}
+.main .affirm.data-v-7c7cddc0 {
+  margin-left: 40rpx;
+  margin-top: 40rpx;
+  border-radius: 10rpx;
+  width: 590rpx;
+  height: 65rpx;
+  line-height: 65rpx;
+  color: #fff;
+  background: #00ABFA;
+  text-align: center;
+  font-size: 26rpx;
+}
+.main .record.data-v-7c7cddc0 {
+  color: #00ABFA;
+  font-size: 26rpx;
+  text-align: center;
+  margin-top: 30rpx;
+}
+.main .explain.data-v-7c7cddc0 {
+  margin-top: 80rpx;
+  font-size: 24rpx;
+  color: #808080;
+  background: #fff;
+  border-radius: 20rpx;
+}
+

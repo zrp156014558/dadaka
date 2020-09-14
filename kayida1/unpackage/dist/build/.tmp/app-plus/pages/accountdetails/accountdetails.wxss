@@ -1,0 +1,88 @@
+.con.data-v-83f1b0f0 {
+  background: #F7F7F7;
+}
+.con .account-title.data-v-83f1b0f0 {
+  height: 60rpx;
+  font-size: 28rpx;
+  color: #333;
+  line-height: 60rpx;
+  overflow-x: scroll;
+  position: fixed;
+  background: #F7F7F7;
+  z-index: 990;
+}
+.con .account-title .account-subt.data-v-83f1b0f0 {
+  width: 730rpx;
+  height: 60rpx;
+}
+.con .account-title view.data-v-83f1b0f0 {
+  width: 180rpx;
+  padding: 0 20rpx;
+  white-space: nowrap;
+}
+.con .account-title .title-cl.data-v-83f1b0f0 {
+  color: #00ABFA;
+  border-bottom: 2rpx solid #00ABFA;
+}
+.con .account-main.data-v-83f1b0f0 {
+  padding: 10rpx 40rpx;
+  margin-top: 200rpx;
+}
+.con .account-main .acc-card.data-v-83f1b0f0 {
+  background: #fff;
+  height: 192rpx;
+  margin-top: 40rpx;
+}
+.con .account-main .acc-card .acc-card-money.data-v-83f1b0f0 {
+  color: #FFA200;
+}
+.con .account-main .acc-card text.data-v-83f1b0f0 {
+  color: #999;
+}
+.con .account-main .acc-card .level.data-v-83f1b0f0 {
+  font-weight: bold;
+}
+.con .account-main .acc-card .cards-c.data-v-83f1b0f0 {
+  color: #EAD35C;
+}
+.con .account-main .acc-card image.data-v-83f1b0f0 {
+  width: 110rpx;
+  height: 110rpx;
+  border-radius: 50%;
+  margin-top: 40rpx;
+  margin-left: 20rpx;
+}
+.con .account-main .acc-card .acc-card-left.data-v-83f1b0f0 {
+  font-size: 26rpx;
+  color: #666;
+  margin-left: 40rpx;
+  width: 250rpx;
+}
+.con .account-main .acc-card .acc-card-left .unickname.data-v-83f1b0f0 {
+  margin-top: 10rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.con .account-main .acc-card .acc-card-right.data-v-83f1b0f0 {
+  font-size: 26rpx;
+  color: #999;
+  margin-left: 20rpx;
+}
+.con .account-main .acc-card .acc-card-right .unickname.data-v-83f1b0f0 {
+  margin-top: 10rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.con .account-main .acc-card .cards.data-v-83f1b0f0 {
+  margin-top: 10rpx;
+  font-size: 26rpx;
+  color: #999;
+  margin-left: 40rpx;
+  width: 450rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+

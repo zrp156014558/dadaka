@@ -1,0 +1,1 @@
+<view><web-view class="top" src="{{guide.guide_url}}"></web-view></view>

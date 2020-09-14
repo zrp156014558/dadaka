@@ -1,0 +1,168 @@
+.con.data-v-63243651 {
+  background: #F7F7F7;
+}
+.con .contact-title.data-v-63243651 {
+  padding: 30rpx 40rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .contact-title .contact-details.data-v-63243651 {
+  font-size: 18rpx;
+  margin-top: 20rpx;
+}
+.con .contact-way.data-v-63243651 {
+  background: #fff;
+  padding: 30rpx 0;
+  text-align: center;
+}
+.con .contact-way .job-time.data-v-63243651 {
+  font-size: 26rpx;
+  color: #333;
+}
+.con .contact-way .contact-btn.data-v-63243651 {
+  margin-top: 30rpx;
+}
+.con .contact-way .contact-btn .chat-btn.data-v-63243651 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  color: #00ABFA;
+  font-size: 26rpx;
+}
+.con .contact-way .contact-btn .chat-btn view.data-v-63243651 {
+  line-height: 58rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-left: 20rpx;
+}
+.con .contact-way .contact-btn .chat-btn view image.data-v-63243651 {
+  margin-top: 10rpx;
+}
+.con .contact-way .contact-btn .chat-btn .weixin-btn.data-v-63243651 {
+  width: 196rpx;
+  height: 58rpx;
+  border: 2rpx solid #00ABFA;
+  border-radius: 20rpx;
+}
+.con .contact-way .contact-btn .chat-btn .phone-btn.data-v-63243651 {
+  margin-left: 40rpx;
+  width: 196rpx;
+  height: 58rpx;
+  border: 2rpx solid #00ABFA;
+  border-radius: 20rpx;
+}
+.con .contact-way .contact-btn .chat-btn .wechat-img.data-v-63243651 {
+  width: 45rpx;
+  height: 37rpx;
+}
+.con .contact-way .contact-btn .chat-btn .phone-img.data-v-63243651 {
+  width: 32rpx;
+  height: 40rpx;
+}
+.con .contact-bottom.data-v-63243651 {
+  margin-top: 40rpx;
+  text-align: center;
+  padding: 0 204rpx;
+}
+.con .contact-bottom .wechat-group.data-v-63243651 {
+  font-size: 26rpx;
+  color: #333;
+}
+.con .contact-bottom .wechat-details.data-v-63243651 {
+  font-size: 18rpx;
+  color: #808080;
+  margin-top: 30rpx;
+}
+.con .contact-bottom image.data-v-63243651 {
+  width: 260rpx;
+  height: 300rpx;
+  margin-top: 20rpx;
+}
+.con .popup.data-v-63243651 {
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  color: #00ABFA;
+  font-size: 26rpx;
+}
+.con .popup .popup-bg.data-v-63243651 {
+  opacity: 0.6;
+  background: #6C6C6C;
+  z-index: 999;
+  height: 100%;
+}
+.con .popup .animation.data-v-63243651 {
+  position: relative;
+  -webkit-animation-duration: 0.2s;
+          animation-duration: 0.2s;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+}
+.con .popup .animation-name.data-v-63243651 {
+  -webkit-animation-name: pop-data-v-63243651;
+          animation-name: pop-data-v-63243651;
+}
+.con .popup .animation-cname.data-v-63243651 {
+  -webkit-animation-name: cpop-data-v-63243651;
+          animation-name: cpop-data-v-63243651;
+}
+@-webkit-keyframes pop-data-v-63243651 {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@keyframes pop-data-v-63243651 {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@-webkit-keyframes cpop-data-v-63243651 {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+@keyframes cpop-data-v-63243651 {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+.con .popup .downpic.data-v-63243651 {
+  height: 80rpx;
+  line-height: 80rpx;
+  position: absolute;
+  bottom: 100rpx;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+  width: 650rpx;
+}
+.con .popup .cancel.data-v-63243651 {
+  height: 80rpx;
+  line-height: 80rpx;
+  width: 650rpx;
+  position: absolute;
+  bottom: 0;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+}
+

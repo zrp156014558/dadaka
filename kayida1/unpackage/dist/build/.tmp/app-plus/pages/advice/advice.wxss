@@ -1,0 +1,44 @@
+.con.data-v-70572550 {
+  background: #F7F7F7;
+}
+.con .advice.data-v-70572550 {
+  padding: 20rpx 40rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .advice .advice-title.data-v-70572550 {
+  font-size: 18rpx;
+  color: #00ABFA;
+}
+.con .advice .description-text.data-v-70572550 {
+  margin-top: 40rpx;
+}
+.con .advice .problem-description.data-v-70572550 {
+  margin-top: 20rpx;
+  width: 630rpx;
+  height: 160rpx;
+  padding: 20rpx;
+  background: #fff;
+  font-size: 18rpx;
+  color: #808080;
+}
+.con .advice .advice-ipt.data-v-70572550 {
+  padding: 10rpx;
+  color: #808080;
+  font-size: 18rpx;
+  background: #fff;
+  height: 40rpx;
+  border-radius: 10rpx;
+  margin-top: 20rpx;
+}
+.con .advice .advice-btn.data-v-70572550 {
+  width: 670rpx;
+  height: 56rpx;
+  color: #fff;
+  background: #00ABFA;
+  text-align: center;
+  border-radius: 10rpx;
+  line-height: 56rpx;
+  margin-top: 40rpx;
+}
+

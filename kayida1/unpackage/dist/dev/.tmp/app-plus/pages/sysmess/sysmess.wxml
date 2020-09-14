@@ -1,0 +1,1 @@
+<view><web-view src="{{sys_url}}"></web-view></view>

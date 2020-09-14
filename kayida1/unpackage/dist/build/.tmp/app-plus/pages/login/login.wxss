@@ -1,0 +1,131 @@
+.con .top.data-v-32833d7b {
+  padding-top: 20rpx;
+}
+.con .top .cl.data-v-32833d7b {
+  color: #00ABFA;
+}
+.con .top .forget.data-v-32833d7b {
+  font-size: 26rpx;
+  color: #00ABFA;
+  margin-top: -60rpx;
+  margin-bottom: 80rpx;
+}
+.con .top .title.data-v-32833d7b {
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  color: #333;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.con .top .main.data-v-32833d7b {
+  margin-top: 20rpx;
+  border-top: 5rpx solid #E4E4E4;
+  padding: 0 40rpx;
+}
+.con .top .main .form-phone.data-v-32833d7b {
+  margin-top: 25rpx;
+  padding-bottom: 25rpx;
+  border-bottom: 1rpx solid #E4E4E4;
+}
+.con .top .main .form-phone .phone-logo.data-v-32833d7b {
+  width: 27rpx;
+  height: 43rpx;
+}
+.con .top .main .form-phone .phone-ipt.data-v-32833d7b {
+  margin-left: 42rpx;
+}
+.con .top .main .form-phone .phone-ipt .uni-input-placeholder.data-v-32833d7b {
+  color: #BFBFBF;
+  font-size: 26rpx;
+}
+.con .top .main .form-auth.data-v-32833d7b {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #E4E4E4;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 80rpx;
+  height: 60rpx;
+  line-height: 80rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.con .top .main .form-auth .auth-logo.data-v-32833d7b {
+  margin-top: 10rpx;
+  width: 33rpx;
+  height: 37rpx;
+}
+.con .top .main .form-auth .auth-ipt.data-v-32833d7b {
+  margin-top: 10rpx;
+  margin-left: 40rpx;
+}
+.con .top .main .form-auth .auth-ipt .uni-input-placeholder.data-v-32833d7b {
+  color: #BFBFBF;
+  font-size: 26rpx;
+}
+.con .top .main .form-auth .gain-auth.data-v-32833d7b {
+  font-size: 26rpx;
+  width: 240rpx;
+  text-align: center;
+  color: #00ABFA;
+  padding: 0 20rpx;
+  border-left: 2rpx solid #E4E4E4;
+  height: 40rpx;
+  line-height: 40rpx;
+}
+.con .top .main .form-auth .gain-auth .font-c.data-v-32833d7b {
+  color: #333;
+}
+.con .top .main .form-pwd.data-v-32833d7b {
+  padding: 20rpx 0;
+  border-bottom: 1rpx solid #E4E4E4;
+  margin-bottom: 80rpx;
+}
+.con .top .main .form-pwd .pwd-logo.data-v-32833d7b {
+  margin-top: 10rpx;
+  width: 35rpx;
+  height: 35rpx;
+}
+.con .top .main .form-pwd .pwd-ipt.data-v-32833d7b {
+  margin-top: 10rpx;
+  margin-left: 38rpx;
+  height: 50rpx;
+}
+.con .top .main .form-pwd .pwd-ipt .uni-input-placeholder.data-v-32833d7b {
+  color: #BFBFBF;
+  font-size: 26rpx;
+  line-height: 50rpx;
+}
+.con .top .main .btn.data-v-32833d7b {
+  padding: 20rpx;
+}
+.con .top .main .btn .login.data-v-32833d7b {
+  width: 630rpx;
+  height: 86rpx;
+  background: #00ABFA;
+  text-align: center;
+  margin-bottom: 30rpx;
+  color: #fff;
+  border-radius: 20rpx;
+  line-height: 86rpx;
+  font-size: 36rpx;
+}
+.con .top .main .btn .agreement.data-v-32833d7b {
+  font-size: 26rpx;
+}
+.con .top .main .btn .agreement .user-agreement.data-v-32833d7b {
+  color: #00ABFA;
+}
+.con .top .main .btn .third-party.data-v-32833d7b {
+  margin-top: 40rpx;
+  font-size: 26rpx;
+  color: #808080;
+  text-align: center;
+}
+.con .top .main .btn .third-party image.data-v-32833d7b {
+  width: 94rpx;
+  height: 94rpx;
+  margin-top: 20rpx;
+}
+

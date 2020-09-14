@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"con.",[1],"data-v-5c5f1242 { background: #F7F7F7; }\n.",[1],"con .",[1],"course-main .",[1],"course-banner.",[1],"data-v-5c5f1242 { width: 100%; height: ",[0,340],"; }\n",],undefined,{path:"./pages/coursecenter/coursecenter.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/coursecenter/coursecenter.wxml') } }));

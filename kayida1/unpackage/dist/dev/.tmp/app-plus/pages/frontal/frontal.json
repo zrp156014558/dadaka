@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "提额攻略",
+  "subNVues": [
+    {
+      "id": "share",
+      "path": "pages/frontal/subNVue/popup",
+      "style": {}
+    }
+  ],
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/font_iy36tpu1yv/iconfont.ttf",
+        "fontSize": "22px",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

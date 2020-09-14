@@ -1,0 +1,175 @@
+.con.data-v-2dcd079e {
+  background: #F8F8F8;
+}
+.con .promote-main.data-v-2dcd079e {
+  text-align: center;
+  margin-bottom: 140rpx;
+}
+.con .promote-main .promote-text.data-v-2dcd079e {
+  color: #333;
+  font-size: 26rpx;
+  padding: 0 40rpx;
+  text-align: left;
+}
+.con .promote-main image.data-v-2dcd079e {
+  width: 650rpx;
+  height: 1200rpx;
+}
+.con .promote-bottom.data-v-2dcd079e {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 20rpx;
+  width: 100%;
+  background: #fff;
+}
+.con .promote-bottom .textarea.data-v-2dcd079e {
+  margin-left: 30rpx;
+  width: 440rpx;
+  border: 1rpx solid #333;
+  border-radius: 20rpx;
+  height: 120rpx;
+  font-size: 24rpx;
+  color: #333;
+  padding-left: 10rpx;
+}
+.con .promote-bottom .promote-btn.data-v-2dcd079e {
+  width: 200rpx;
+  height: 50rpx;
+  line-height: 48rpx;
+  background: #00ABFA;
+  color: #fff;
+  text-align: center;
+  font-size: 18rpx;
+  border-radius: 20rpx;
+  margin-top: 10rpx;
+  margin-left: 20rpx;
+}
+.con .share-mask.data-v-2dcd079e {
+  position: fixed;
+  top: 0;
+  background: #8F8F94;
+  opacity: 0.4;
+  height: 100%;
+  width: 750rpx;
+  z-index: 998;
+}
+.con .share.data-v-2dcd079e {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 450rpx;
+  text-align: center;
+  background: #F2F2F2;
+  color: #333;
+  z-index: 999;
+}
+.con .share .share-text.data-v-2dcd079e {
+  font-size: 30rpx;
+  margin-top: 70rpx;
+}
+.con .share .share-btn.data-v-2dcd079e {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  margin-top: 60rpx;
+  font-size: 26rpx;
+}
+.con .share .share-btn image.data-v-2dcd079e {
+  width: 100rpx;
+  height: 100rpx;
+}
+.con .share .share-cancel.data-v-2dcd079e {
+  width: 100%;
+  height: 88rpx;
+  font-size: 26rpx;
+  color: #666;
+  background: #fff;
+  line-height: 88rpx;
+  margin-top: 60rpx;
+}
+.con .popup.data-v-2dcd079e {
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  position: fixed;
+  top: 0;
+  color: #00ABFA;
+  font-size: 26rpx;
+}
+.con .popup .popup-bg.data-v-2dcd079e {
+  opacity: 0.6;
+  background: #6C6C6C;
+  z-index: 999;
+  height: 100%;
+}
+.con .popup .animation.data-v-2dcd079e {
+  position: relative;
+  -webkit-animation-duration: 0.2s;
+          animation-duration: 0.2s;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+}
+.con .popup .animation-name.data-v-2dcd079e {
+  -webkit-animation-name: pop-data-v-2dcd079e;
+          animation-name: pop-data-v-2dcd079e;
+}
+.con .popup .animation-cname.data-v-2dcd079e {
+  -webkit-animation-name: cpop-data-v-2dcd079e;
+          animation-name: cpop-data-v-2dcd079e;
+}
+@-webkit-keyframes pop-data-v-2dcd079e {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@keyframes pop-data-v-2dcd079e {
+from {
+    bottom: -180rpx;
+}
+to {
+    bottom: 0rpx;
+}
+}
+@-webkit-keyframes cpop-data-v-2dcd079e {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+@keyframes cpop-data-v-2dcd079e {
+from {
+    bottom: 0rpx;
+}
+to {
+    bottom: -180rpx;
+}
+}
+.con .popup .downpic.data-v-2dcd079e {
+  height: 80rpx;
+  line-height: 80rpx;
+  position: absolute;
+  bottom: 100rpx;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+  width: 650rpx;
+}
+.con .popup .cancel.data-v-2dcd079e {
+  height: 80rpx;
+  line-height: 80rpx;
+  width: 650rpx;
+  position: absolute;
+  bottom: 0;
+  background: #fff;
+  text-align: center;
+  left: 50rpx;
+  border-radius: 120rpx;
+}
+

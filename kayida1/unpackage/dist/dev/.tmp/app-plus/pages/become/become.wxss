@@ -1,0 +1,62 @@
+.con .promote.data-v-0b9df985 {
+  width: 100%;
+  height: 100%;
+}
+.con .promote image.data-v-0b9df985 {
+  width: 100%;
+  margin-bottom: 78rpx;
+}
+.con .become.data-v-0b9df985 {
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #00ABFA;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  font-size: 30rpx;
+}
+.con .share-mask.data-v-0b9df985 {
+  position: fixed;
+  top: 0;
+  background: #8F8F94;
+  opacity: 0.4;
+  height: 100%;
+  width: 750rpx;
+  z-index: 998;
+}
+.con .share.data-v-0b9df985 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 450rpx;
+  text-align: center;
+  background: #F2F2F2;
+  color: #333;
+  z-index: 999;
+}
+.con .share .share-text.data-v-0b9df985 {
+  font-size: 30rpx;
+  margin-top: 70rpx;
+}
+.con .share .share-btn.data-v-0b9df985 {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  margin-top: 60rpx;
+  font-size: 26rpx;
+}
+.con .share .share-btn image.data-v-0b9df985 {
+  width: 100rpx;
+  height: 100rpx;
+}
+.con .share .share-cancel.data-v-0b9df985 {
+  width: 100%;
+  height: 88rpx;
+  font-size: 26rpx;
+  color: #666;
+  background: #fff;
+  line-height: 88rpx;
+  margin-top: 60rpx;
+}
+

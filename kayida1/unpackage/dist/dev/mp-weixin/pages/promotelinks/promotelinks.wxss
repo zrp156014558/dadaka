@@ -1,0 +1,78 @@
+.con.data-v-00397076 {
+  background: #EEEEEE;
+}
+.con .information.data-v-00397076 {
+  background: #F7F7F7;
+}
+.con .information .infor-title.data-v-00397076 {
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 30rpx;
+  color: #808080;
+  height: 66rpx;
+  line-height: 66rpx;
+  background: #fff;
+  position: fixed;
+  background: #F7F7F7;
+  width: 100%;
+  z-index: 999;
+}
+.con .information .infor-title .infor-color.data-v-00397076 {
+  color: #00ABFA;
+}
+.con .information .infor-main.data-v-00397076 {
+  background: #fff;
+  padding: 40rpx;
+  padding-top: 80rpx;
+}
+.con .information .infor-main .infor-card.data-v-00397076 {
+  height: 160rpx;
+  background: #fff;
+  border-bottom: 1rpx solid #F5F5F5;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.con .information .infor-main .infor-card .infor-card-left.data-v-00397076 {
+  width: 460rpx;
+  margin-top: 10rpx;
+  position: relative;
+}
+.con .information .infor-main .infor-card .infor-card-left .card-title.data-v-00397076 {
+  font-size: 26rpx;
+  color: #333;
+  font-weight: bold;
+}
+.con .information .infor-main .infor-card .infor-card-left .card-details.data-v-00397076 {
+  font-size: 20rpx;
+  color: #4D4D4D;
+  margin-top: 10rpx;
+  width: 400rpx;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.con .information .infor-main .infor-card .infor-card-left .card-bottom.data-v-00397076 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 20rpx;
+  color: #4D4D4D;
+  margin-top: 6rpx;
+  position: absolute;
+  bottom: 10rpx;
+  width: 100%;
+}
+.con .information .infor-main .infor-card .card-img.data-v-00397076 {
+  width: 180rpx;
+  height: 120rpx;
+}
+.con .information .infor-main .infor-card .card-img .origin-img.data-v-00397076 {
+  height: 120rpx;
+}
+.con .information .infor-main .infor-card .card-img image.data-v-00397076 {
+  width: 180rpx;
+  height: 120rpx;
+  margin-top: 10rpx;
+}
+

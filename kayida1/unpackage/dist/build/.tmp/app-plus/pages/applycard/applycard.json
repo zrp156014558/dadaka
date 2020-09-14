@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "申请",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav/uni-nav"
+  }
+}

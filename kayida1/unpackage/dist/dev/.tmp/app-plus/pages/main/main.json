@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "bw-swiper": "/wxcomponents/bw-swiper/bw-swiper",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "countup": "/components/countUp"
+  }
+}

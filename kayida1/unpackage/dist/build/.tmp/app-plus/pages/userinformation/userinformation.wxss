@@ -1,0 +1,103 @@
+.con.data-v-3b724642 {
+  background: #F7F7F7;
+}
+.con .user-main.data-v-3b724642 {
+  background: #fff;
+}
+.con .user-main .annot.data-v-3b724642 {
+  font-size: 24rpx;
+  color: #808080;
+  text-align: center;
+  height: 50rpx;
+  line-height: 50rpx;
+}
+.con .user-main .ava-img.data-v-3b724642 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.con .user-main .information-detail.data-v-3b724642 {
+  border-top: 2rpx solid #F2F2F2;
+  height: 100rpx;
+  line-height: 100rpx;
+  padding: 0 40rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .user-main .information-detail .nickname.data-v-3b724642 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.con .user-main .information-detail view.data-v-3b724642 {
+  width: 180rpx;
+}
+.con .user-main .information-detail image.data-v-3b724642 {
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 50%;
+  margin-top: 15rpx;
+}
+.con .user-main .information-detail input.data-v-3b724642 {
+  margin-top: 25rpx;
+}
+.con .user-main .information-detail input .uni-input-placeholder.data-v-3b724642 {
+  font-size: 26rpx;
+  color: #CCCCCC;
+}
+.con .user-main .information-auth.data-v-3b724642 {
+  border-top: 2rpx solid #F2F2F2;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+          justify-content: left;
+  height: 100rpx;
+  line-height: 100rpx;
+  padding: 0 40rpx;
+  font-size: 26rpx;
+  color: #333;
+}
+.con .user-main .information-auth .auth-text.data-v-3b724642 {
+  width: 180rpx;
+}
+.con .user-main .information-auth input.data-v-3b724642 {
+  width: 300rpx;
+  margin-top: 25rpx;
+}
+.con .user-main .information-auth input .uni-input-placeholder.data-v-3b724642 {
+  font-size: 26rpx;
+  color: #CCCCCC;
+}
+.con .user-main .information-auth .gain-auth.data-v-3b724642 {
+  margin-top: 30rpx;
+  font-size: 26rpx;
+  width: 240rpx;
+  text-align: center;
+  color: #00ABFA;
+  padding: 0 20rpx;
+  border-left: 2rpx solid #E4E4E4;
+  height: 40rpx;
+  line-height: 40rpx;
+}
+.con .user-main .information-auth .gain-auth .font-c.data-v-3b724642 {
+  color: #333;
+}
+.con .information-btn.data-v-3b724642 {
+  width: 590rpx;
+  line-height: 65rpx;
+  height: 65rpx;
+  text-align: center;
+  font-size: 26rpx;
+  border-radius: 20rpx;
+  margin-top: 40rpx;
+  margin-left: 80rpx;
+}
+.con .amend.data-v-3b724642 {
+  background: #00ABFA;
+  color: #fff;
+}
+.con .logout.data-v-3b724642 {
+  background: #fff;
+  color: #00ABFA;
+  border: 2rpx solid #00ABFA;
+}
+

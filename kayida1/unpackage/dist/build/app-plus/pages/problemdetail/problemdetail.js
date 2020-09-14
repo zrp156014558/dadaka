@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"con.",[1],"data-v-014a719c { background: #F7F7F7; }\n",],undefined,{path:"./pages/problemdetail/problemdetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/problemdetail/problemdetail.wxml') } }));

@@ -1,0 +1,54 @@
+.sys-main .sys-card.data-v-76f1c685 {
+  padding: 30rpx 60rpx;
+  border-bottom: 1rpx solid #CECECE;
+}
+.sys-main .sys-card .sys-title image.data-v-76f1c685 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.sys-main .sys-card .sys-title .title-font.data-v-76f1c685 {
+  margin-left: 20rpx;
+}
+.sys-main .sys-card .sys-title .title-font .sys-t.data-v-76f1c685 {
+  font-size: 26rpx;
+  color: #333;
+}
+.sys-main .sys-card .sys-title .title-font .sys-time.data-v-76f1c685 {
+  font-size: 20rpx;
+  color: #808080;
+}
+.sys-main .sys-card .sys-details.data-v-76f1c685 {
+  margin-top: 10rpx;
+  padding: 20rpx;
+  padding-top: 10rpx;
+  margin-left: 80rpx;
+  font-size: 26rpx;
+  color: #808080;
+  width: 540rpx;
+  height: 68rpx;
+  line-height: 40rpx;
+  background: #E6E6E6;
+  border-radius: 10rpx;
+}
+.sys-main .sys-card .sys-details view.data-v-76f1c685 {
+  overflow: hidden;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.sys-main .sys-card .sys-details-lg.data-v-76f1c685 {
+  margin-top: 10rpx;
+  padding: 20rpx;
+  padding-top: 10rpx;
+  margin-left: 80rpx;
+  font-size: 26rpx;
+  color: #808080;
+  width: 540rpx;
+  min-height: 68rpx;
+  line-height: 40rpx;
+  background: #E6E6E6;
+  border-radius: 10rpx;
+}
+
